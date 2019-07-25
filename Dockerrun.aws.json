@@ -24,7 +24,7 @@
       },
       {
           "name": "nginx",
-          "image": "bernardobraslourenco/multi-ngnix",
+          "image": "bernardobraslourenco/multi-nginx",
           "hostname": "nginx",
           "essential": "true",
           "portMappings": [
